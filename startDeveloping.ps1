@@ -1,0 +1,1 @@
+Start-Process "chrome.exe";Start-Process "evernote.exe";Start-Process "code";Start-Process "C:\Users\David\AppData\Local\atom\atom.exe";Start-Process "C:\Users\David\AppData\Local\GitHubDesktop\GitHub Desktop.exe";Start-Process "powershell";
